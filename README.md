@@ -2,7 +2,7 @@
 
 <h1> HOWTO </h1>
 <ol>
-	<li>Go to the source [tinyurl.com/wupdel](https://raw.githubusercontent.com/arifams/remove_user_profiles_windows/main/remove_userprofiles.ps1)  </li>
+	<li>Go to the source https://tinyurl.com/wupdel </li>
 	<li>Save the script.</li>
 	<li>Open Powershell as an admin</li>
 	<li>Run this script into Powershell</li>
